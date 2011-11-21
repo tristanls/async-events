@@ -15,7 +15,11 @@ Invoke each of the listeners that may be listening for the specified event in or
 
 #### emitter.removeListener( event, listener )
 
-Remove a listener from the listener array for the specified event. If an event is not specified, removes *ALL* listeners
+Remove a listener from the listener array for the specified event. 
+
+#### emitter.removeAllListeners( event )
+
+Removes all listeners for an event. If an event is not specified, removes *ALL* listeners
 
 ## Licence
 
