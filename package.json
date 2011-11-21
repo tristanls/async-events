@@ -1,0 +1,10 @@
+{
+  "name" : "async-events",
+  "description" : "An asynchronous Node.js event emitter implementation.",
+  "version" : "0.1.0",
+  "author" : "Tristan Slominski <tristan.slominski@gmail.com>",
+  "main" : "./lib/async-events.js",
+  "engines" : {
+    "node" : "0.6.x"
+  }
+}
