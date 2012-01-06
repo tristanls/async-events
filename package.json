@@ -5,6 +5,6 @@
   "author" : "Tristan Slominski <tristan.slominski@gmail.com>",
   "main" : "./lib/async-events.js",
   "engines" : {
-    "node" : ">=0.4.x"
+    "node" : "0.6.x"
   }
 }
